@@ -1,4 +1,4 @@
-# LOL_Insights
+# LOL_Data_Insights
 Project for creating interesting insights and visualizations based on data from the League of Legends game shared by Riot Games API using Python,PostgreSQL,Tableau and others 
 
 ## Description
